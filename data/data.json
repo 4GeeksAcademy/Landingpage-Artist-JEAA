@@ -1,0 +1,84 @@
+{
+  "artista": {
+    "nombre": "Oliver Arteaga",
+    "ocupacion": "Decoraciones Gastronómicas",
+    "descripcion": "Artista especializado en decoraciones gastronómicas para eventos del rubro y eventos privados.",
+    "bio": "Oliver Arteaga es un artista culinario con más de 15 años de experiencia transformando platos en auténticas obras de arte. Su pasión por la gastronomía y el diseño lo ha llevado a colaborar con chefs de renombre y a crear experiencias visuales únicas para bodas, galas y eventos corporativos. Cada creación es una fusión de técnica, color y sabor, diseñada para sorprender y deleitar.",
+    "foto": "assets/images/retrato.jpg",
+    "correo": "contacto@oliverarteaga.com",
+    "telefonos": ["+34 600 000 000", "+34 900 000 000"],
+    "redes": {
+      "instagram": "https://instagram.com/oliverarteaga",
+      "facebook": "https://facebook.com/oliverarteaga"
+    },
+    "sitioWeb": "https://oliverarteaga.com"
+  },
+  "trayectoria": [
+    {
+      "anio": "2008",
+      "titulo": "Inicio en la alta cocina",
+      "descripcion": "Comienza su carrera en restaurantes con estrella Michelin, especializándose en presentación y emplatado artístico."
+    },
+    {
+      "anio": "2013",
+      "titulo": "Primer evento gastronómico propio",
+      "descripcion": "Diseña la decoración culinaria completa de una gala benéfica con más de 300 invitados."
+    },
+    {
+      "anio": "2018",
+      "titulo": "Colaboración internacional",
+      "descripcion": "Participa en ferias gastronómicas internacionales presentando montajes escultóricos comestibles."
+    },
+    {
+      "anio": "2023",
+      "titulo": "Reconocimiento artístico",
+      "descripcion": "Recibe el premio 'Arte en el Plato' por su contribución a la decoración gastronómica."
+    }
+  ],
+  "eventos": [
+    {
+      "nombre": "Gala Gourmet Anual",
+      "tipo": "Evento del rubro",
+      "fecha": "2026-11-14",
+      "lugar": "Madrid, España",
+      "descripcion": "Decoración gastronómica completa para cena de gala con chefs invitados de todo el mundo."
+    },
+    {
+      "nombre": "Feria del Sabor",
+      "tipo": "Evento promocional",
+      "fecha": "2026-12-03",
+      "lugar": "Barcelona, España",
+      "descripcion": "Demostración artística en vivo de esculturas comestibles y estaciones de postres decorativos."
+    },
+    {
+      "nombre": "Boda de María y Lucas",
+      "tipo": "Evento privado",
+      "fecha": "2027-03-20",
+      "lugar": "Valencia, España",
+      "descripcion": "Mesa dulce personalizada, torta escultural y detalles comestibles temáticos exclusivos."
+    }
+  ],
+  "restaurantes": [
+    {
+      "nombre": "Restaurante La Cúpula",
+      "categoria": "Estrella Michelin",
+      "ciudad": "Madrid",
+      "descripcion": "Diseño de emplatados artísticos y decoración de menús degustación.",
+      "imagen": "assets/images/restaurante-1.jpg"
+    },
+    {
+      "nombre": "Mezcla & Sabores",
+      "categoria": "Cocina de autor",
+      "ciudad": "Barcelona",
+      "descripcion": "Montajes escultóricos comestibles y estaciones de show-cooking decorativo.",
+      "imagen": "assets/images/restaurante-2.jpg"
+    },
+    {
+      "nombre": "El Jardín Secreto",
+      "categoria": "Gastronomía floral",
+      "ciudad": "Valencia",
+      "descripcion": "Decoración floral comestible y experiencias sensoriales de postres artísticos.",
+      "imagen": "assets/images/restaurante-3.jpg"
+    }
+  ]
+}
